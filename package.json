@@ -1,10 +1,5 @@
 {
-  "name": "your-project",
-  "version": "1.0.0",
   "scripts": {
     "lint:html": "htmlhint **/*.html"
-  },
-  "devDependencies": {
-    "htmlhint": "^0.14.2"
   }
 }
